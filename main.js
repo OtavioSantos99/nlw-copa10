@@ -50,6 +50,6 @@ document.querySelector("#app").innerHTML = `
         "Sexta",
         createGame("brazil", "16:00", "cameroon") +
         createGame("switzerland", "16:00", "serbia")
-      )})}
+      )}
       </main>
 `
