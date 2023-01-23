@@ -44,12 +44,12 @@ document.querySelector("#app").innerHTML = `
         createGame("brazil", "13:00", "switzerland") +
           createGame("cameroon", "16:00", "serbia")
       )}
-      )}
+   
       ${createCard(
         "02/12",
         "Sexta",
         createGame("brazil", "16:00", "cameroon") +
         createGame("switzerland", "16:00", "serbia")
-      )})}
+      )}
       </main>
 `
